@@ -1,5 +1,7 @@
 # 토닥토닥
 
+<img width="60%" alt="토닥토닥" src="https://user-images.githubusercontent.com/44156173/146647068-d7854d7d-80b7-4dc2-a266-7cf3ab5ef9ce.png">
+
 - ***Skills***   
   HTML, JAVA, Javascript, Oracle, Spring
   
@@ -25,6 +27,8 @@
 
 [[비트캠프] 자바 142기 자바기반 웹 오픈소스 개발자 과정 / 팀명 : 토닥토닥 / 프로젝트명 : 비영리단체를 위한 그룹웨어](https://www.youtube.com/watch?v=9d4Os6aTCT0)
 
+<br>
+
 ## 🖊️ 요약
 
 ---
@@ -35,17 +39,17 @@
 <br>
 
 - 결재라인 선택
-<img width="40%" alt="기안서결재라인_(2)" src="https://user-images.githubusercontent.com/44156173/146646677-7eb1ed28-b781-4ffd-8c65-dbf5c5ef8a26.png">
+<img width="40%" alt="결재라인 선택" src="https://user-images.githubusercontent.com/44156173/146646677-7eb1ed28-b781-4ffd-8c65-dbf5c5ef8a26.png">
 
 <br>
 
 - 전자문서 목록 조회
-<img width="60%" alt="결재서류목록" src="https://user-images.githubusercontent.com/44156173/146646713-1d54f1ca-a3fe-4e63-add9-b1be4423e1d1.png">
+<img width="60%" alt="전자문서 목록 조회" src="https://user-images.githubusercontent.com/44156173/146646713-1d54f1ca-a3fe-4e63-add9-b1be4423e1d1.png">
 
 <br>
 
 - 전자문서 상세 보기
-<img width="60%" alt="결재서류상세보기1" src="https://user-images.githubusercontent.com/44156173/146646729-f28606c6-8028-4a26-836a-00de70b9bbc5.png">
+<img width="60%" alt="전자문서 상세 보기" src="https://user-images.githubusercontent.com/44156173/146646729-f28606c6-8028-4a26-836a-00de70b9bbc5.png">
 
 <br>
 
